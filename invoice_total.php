@@ -5,7 +5,7 @@
     <link rel="stylesheet" type="text/css" href="main.css" />
 </head>
 <body>
-    <main>
+    <main> 
         <h1>Invoice Total Calculator</h1>
         <p>Enter the values below and click "Calculate".</p>
         <form action="." method="post">

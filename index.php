@@ -33,7 +33,7 @@ switch ($customer_type) {
         break;
 }
 
-
+// Alternative way: If-else statement:
 // Customer Type: R
 // if ($customer_type == 'R' || $customer_type == 'r' ) {
 //     if ($invoice_subtotal < 100) {
